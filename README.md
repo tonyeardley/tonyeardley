@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tony!
 
-<!--
-**tonyeardley/tonyeardley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Passionate about building clean, efficient, and maintainable software.
 
-Here are some ideas to get you started:
+🚀 Mostly working with **C/C++** and **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚰 Fueled by dihydrogen monoxide, curiosity, and the occasional debugging victory.
+
+---
+
+### 🛠️ Technologies & Tools
+
+- 💻 Languages: **C/C++**, **Python**
+
+- ⚙️ Tools: Git, Docker, VSCode
+
+- 🧪 Interests: Application programming, automation, self-hosting
+
+---
+
+### 📫 Let's Connect
+
+Feel free to check out my work, open issues, or collaborate on a project!
+
+- GitHub: [@tonyeardley](https://github.com/tonyeardley)
+<!-- - Email: your.email@example.com (optional) -->
