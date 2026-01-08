@@ -2,17 +2,13 @@
 
 🔧 Passionate about building clean, efficient, and maintainable software.
 
-🚀 Mostly working with **C/C++** and **Python**.
-
-🚰 Fueled by dihydrogen monoxide, curiosity, and the occasional debugging victory.
-
 ---
 
 ### 🛠️ Technologies & Tools
 
-- 💻 Languages: **C/C++**, **Python**
+- 💻 Languages: **C/C++**, **Python**, **TypeScript**
 
-- ⚙️ Tools: Git, Docker, VSCode
+- ⚙️ Tools: Git, Podman, VSCode
 
 - 🧪 Interests: Application programming, automation, self-hosting
 
